@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kazthemaz
+- 👋 Hi, I’m Kassra
 - 👀 I’m interested in blockchain technology and AI, automation and cybersecurity.
 - 🌱 I’m currently learning Javascript as a beginner and making a transition into the tech world.
 - 💞️ I’m looking to collaborate on anything that I can learn from 
