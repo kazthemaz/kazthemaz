@@ -4,7 +4,7 @@
 - 🔭 I have worked on [BandMates (for mobile)](http://www.band-mates.com/)
       as well as [VenuLet](https://airbnb-catherinejex.herokuapp.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **node.js**
 
 - 👯 I’m looking to collaborate on **cool projects, specifically web3/blockchain**
 
