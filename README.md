@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **cool projects, specifically web3/blockchain**
 
 - 🔭 I'm currently looking for an opportunity as a full-stack developer
--
+
 - 📫 How to reach me **www.linkedin.com/in/kassra-mahsoori**
 
 - 🌍 Keen traveller
