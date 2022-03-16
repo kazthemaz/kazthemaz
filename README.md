@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **www.linkedin.com/in/kassra-mahsoori**
 
+- 📄 Know about my experiences [file:///C:/Users/Ario/Desktop/Jobs%20stuff/CV/MOST%20UPTODATE/Tech%20CV.pdf](file:///C:/Users/Ario/Desktop/Jobs%20stuff/CV/MOST%20UPTODATE/Tech%20CV.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kazthemazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kazthemazz" height="30" width="40" /></a>
