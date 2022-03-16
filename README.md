@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kassra</h1>
 <h3 align="center">A tech lover and recent coding bootcamp graduate looking to learn and make cool stuff.</h3>
 
-- 🔭 I’m currently working on [BandMates](http://www.band-mates.com/)
+- 🔭 I’m currently working on [BandMates (for mobile)](http://www.band-mates.com/)
 
 - 🌱 I’m currently learning **React**
 
