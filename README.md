@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kassra</h1>
 <h3 align="center">A tech lover and recent coding bootcamp graduate looking to learn and make cool stuff.</h3>
 
+-  📍 I'm from London and studied in Nottingham
+
 - 🔭 I have worked on [BandMates (for mobile)](http://www.band-mates.com/)
       as well as [VenuLet](https://airbnb-catherinejex.herokuapp.com/)
 
@@ -8,7 +10,12 @@
 
 - 👯 I’m looking to collaborate on **cool projects, specifically web3/blockchain**
 
+- 🔭 I'm currently looking for an opportunity as a full-stack developer
+-
 - 📫 How to reach me **www.linkedin.com/in/kassra-mahsoori**
+
+- 🌍 Keen traveller
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
